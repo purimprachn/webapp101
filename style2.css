@@ -1,0 +1,14 @@
+.top-header {
+    background-color: rgb(25, 5, 9);
+}
+.menu-item {
+    color: rgb(197, 26, 26);
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.active {
+    font-size: 18px;
+    font-weight: 600;
+    
+}
